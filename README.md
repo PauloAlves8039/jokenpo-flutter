@@ -1,16 +1,31 @@
-# jokenpo
+<h1 align="center">Jokenpô :punch: :hand: :v: </h1>
 
-Minha segunda aplicação Flutter.
+<p align="center">
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v1.17.5-blue"></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-v2.8.4-%2363B8FF"></a>
+</p>
 
-## Getting Started
+## :computer: Projeto
 
-This project is a starting point for a Flutter application.
+Aplicação mobile para simular o famoso jogo Jokenpô(Pedra, Papel e Tesoura) utilizando o Framework Flutter, código fonte do projeto foi desenvolvido com baso no curso 
+[Desenvolvimento Android e IOS com Flutter 2020 -Crie 15 Apps](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/).
 
-A few resources to get you started if this is your first Flutter project:
+## :wrench: Recursos Utilizados
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Android Studio v4.0.1](https://developer.android.com/studio).
+- [Flutter v1.17.5](https://flutter.dev/).
+- [Dart v2.8.4](https://dart.dev/).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :floppy_disk: Clonar repositório
+
+```git clone https://github.com/PauloAlves8039/jokenpo-flutter.git```
+
+
+## :camera: Screenshot
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/jokenpo-flutter/blob/master/imagens/screenshot.jpg" alt="Jokenpô" /> </p>
+
+
+## Author
+
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
